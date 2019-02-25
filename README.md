@@ -15,3 +15,12 @@ We checked for redundant features and inspected correlation coefficients on a ba
 ![](/media/correl.png)
 
 ![](/media/coefs.png)
+
+
+We even topic-modeled the plot synopses in order to extract latent unstructured features:
+
+![](/media/topics.png)
+
+Ultimately we ended up running with an XGBoost classifier that performed respectably well:
+
+![](/media/ROC_curve.png)
