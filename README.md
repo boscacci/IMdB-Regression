@@ -21,6 +21,6 @@ We even topic-modeled the plot synopses in order to extract latent unstructured 
 
 ![](/media/topics.png)
 
-Ultimately we ended up running with an XGBoost classifier that performed respectably well:
+Our ultimate XGBoost classifier significantly outperformed a scrappy naive bayes classifier, and that same naive bayes classifier thankfully outperformed a baseline/dummy classifier.
 
-![](/media/ROC_curve.png)
+![](/media/ROC.png)
