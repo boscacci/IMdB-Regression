@@ -8,6 +8,17 @@ verify_ssl = true
 [packages]
 jupyter = "*"
 gensim = "*"
+pandas = "*"
+tornado = "==5.1.1"
+matplotlib = "*"
+sklearn = "*"
+nltk = "*"
+seaborn = "*"
+pyenchant = "*"
+pyldavis = "*"
+xgboost = "*"
+patsy = "*"
+statsmodels = "*"
 
 [requires]
 python_version = "3.7"
