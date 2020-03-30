@@ -4,25 +4,12 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-black = "*"
 
 [packages]
-jupyter = "*"
-gensim = "*"
 pandas = "*"
-tornado = "==5.1.1"
+requests = "*"
+jupyter = "*"
 matplotlib = "*"
-sklearn = "*"
-nltk = "*"
-seaborn = "*"
-pyenchant = "*"
-pyldavis = "*"
-xgboost = "*"
-patsy = "*"
-statsmodels = "*"
 
 [requires]
 python_version = "3.7"
-
-[pipenv]
-allow_prereleases = true
