@@ -8,19 +8,19 @@ ___
 
 We passed 5k+ movies from a Kaggle dataset into the OMdB API to get even more metadata. Here's a tiny peek at what we started with:
 
-![](/media/data.png)
+![](/readme_images/data.png)
 
 We checked for redundant features and inspected correlation coefficients on a baseline logistic regression model:
 
-![](/media/correl.png)
+![](/readme_images/correl.png)
 
-![](/media/coefs.png)
+![](/readme_images/coefs.png)
 
 
 We even topic-modeled the plot synopses in order to extract latent unstructured features:
 
-![](/media/topics.png)
+![](/readme_images/topics.png)
 
 Our ultimate XGBoost classifier significantly outperformed a scrappy naive bayes classifier, and that same naive bayes classifier thankfully outperformed a baseline/dummy classifier.
 
-![](/media/ROC.png)
+![](/readme_images/ROC.png)

@@ -1,18 +1,15 @@
+### Creds ###
+src/API_KEY.py
 
-# Created by https://www.gitignore.io/api/macos,jupyternotebook
-# Edit at https://www.gitignore.io/?templates=macos,jupyternotebook
+### VSCode ###
+.vscode
 
 ### JupyterNotebook ###
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 .ipynb
 
-# Remove previous ipynb_checkpoints
-#   git rm -r .ipynb_checkpoints/
-#
-
 ### macOS ###
-# General
 /.DS_Store
 
 # Files that might appear in the root of a volume
@@ -23,3 +20,6 @@
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
+
+### Persisted Data / Pickles ###
+data
