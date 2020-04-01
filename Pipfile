@@ -10,6 +10,9 @@ pandas = "*"
 requests = "*"
 jupyter = "*"
 matplotlib = "*"
+jupyter-nbextensions-configurator = "*"
+jupyter-contrib-nbextensions = "*"
+pycountry = "*"
 
 [requires]
 python_version = "3.7"
