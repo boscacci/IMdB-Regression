@@ -23,3 +23,6 @@ src/API_KEY.py
 
 ### Persisted Data / Pickles ###
 data
+
+### Pipfile.lock
+Pipfile.lock

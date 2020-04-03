@@ -13,6 +13,7 @@ matplotlib = "*"
 jupyter-nbextensions-configurator = "*"
 jupyter-contrib-nbextensions = "*"
 pycountry = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.7"
