@@ -10,7 +10,8 @@ src/API_KEY.py
 .ipynb
 
 ### macOS ###
-/.DS_Store
+.DS_Store
+*/DS_Store/*
 
 # Files that might appear in the root of a volume
 .DocumentRevisions-V100
