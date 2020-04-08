@@ -17,6 +17,8 @@ scipy = "*"
 nltk = "*"
 sklearn = "*"
 seaborn = "*"
+keras = "*"
+tensorflow = "*"
 
 [requires]
 python_version = "3.7"
