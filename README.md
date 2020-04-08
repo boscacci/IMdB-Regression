@@ -30,6 +30,7 @@ Roger Ebert is quoted as saying "No good film is too long and no bad movie is sh
 
 ## Best Model's Loss
 ![Lasso Loss](readme_images/lasso_loss.png)
+
 These are the errors from my best model, the LassoCV estimator.
 
 RMSE and Median Absolute Error are in terms of the ten-point IMdB rating.
