@@ -1,4 +1,4 @@
-# Good Film // Bad Film
+# IMdB Regression
 
 A regression project in Python.
 
